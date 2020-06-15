@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EducationalApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_score">score</string>
+    <string name="welcome_to_kids_favourite_educational_game">Welcome to kids favourite Educational game!</string>
+    <string name="only_one_rule">Only one rule</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="level">Level</string>
+    <string name="play">Play!</string>
+    <string name="swap_images_until_you_win">Swap images until you win</string>
+    <string name="high_scores">High Scores</string>
+    <string-array name="Level">
+        <item>Easy</item>
+        <item>Moderate</item>
+        <item>Difficult</item>
+    </string-array>
+</resources>
